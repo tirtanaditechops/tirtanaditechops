@@ -11,12 +11,12 @@
 
 Kami adalah tim inti pengembang sistem operasional dan digitalisasi internal di lingkungan **Perumda Tirtanadi**:
 
-| Nama                   | Peran         |
-|------------------------|---------------|
-| 🔧 **Teguh Triantoro** | Developer     |
-| 🧠 **Tauhid Junior**   | Developer     |
-| 🗃️ **Gistya Fakhrani** | Developer     |
-| 🧑‍💼 **Jatmiko**         | Developer     |
+| Nama                | Peran         |
+|---------------------|---------------|
+| **Teguh Triantoro** | Developer     |
+| **Tauhid Junior**   | Developer     |
+| **Gistya Fakhrani** | Developer     |
+| **Jatmiko**         | Developer     |
 
 ---
 
